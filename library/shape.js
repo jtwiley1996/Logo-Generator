@@ -27,7 +27,7 @@ class shapes {
         if (hexRegex.test(shapeColor)) {
             this.shapeColor = shapeColor;
         } else {
-            this.shapeColor = colors[shapeColorColor];
+            this.shapeColor = colors[shapeColor];
         }
     }
     render(){
