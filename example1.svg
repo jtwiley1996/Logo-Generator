@@ -1,0 +1,6 @@
+
+        <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="100" cy="100" r="100" fill="#95f1bf" />
+            <text x="100" y="100" fill="#FFFFFF" font-size="3rem" dominant-baseline="middle" text-anchor="middle">JTW</text>
+        </svg>
+    

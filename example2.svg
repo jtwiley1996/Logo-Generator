@@ -1,0 +1,6 @@
+
+        <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+            <polygon points="100,0 0,200 200,200" fill="#f1af95" />
+            <text x="100" y="125" fill="#000000" font-size="3rem" dominant-baseline="middle" text-anchor="middle">JTW</text>
+        </svg>
+    

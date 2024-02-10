@@ -31,4 +31,8 @@ To test, type `npm run test` into the console and it will check for fail/pass.
 
 ## Contact
 
+- [Email](mailto:jtwiley1996@gmail.com)
+- [Github](https://github.com/jtwiley1996)
+- [Linkedin](https://www.linkedin.com/in/julian-wiley-51508313b/)
+
 ## Examples
