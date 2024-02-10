@@ -9,9 +9,9 @@ describe('circle.js', () => {
             const acronym = 'ABC';
             const circle = 'circle'
             const testShape = new Circle(acronym, textColor, circle,shapeColor);
-            expect(testShape.generateSVG()).toEqual(`<svg width="300" height="200">
-        <circle cx="100" cy="100" r="100" height= "200px" fill="#d2691e"></circle>
-        <text x="100" y="100" fill="#0000ff" font-size="3rem" dominant-baseline="middle" text-anchor="middle">ABC</text>
-        </svg>`)
+            expect(testShape.generateSVG()).toEqual(`<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+<circle cx="100" cy="100" r="100" fill="${this.shapeColor}" />
+<text x="100" y="100" fill="${this.textColor}" font-size="3rem" dominant-baseline="middle" text-anchor="middle">${this.acronym}</text>
+</svg>`)
     })});
         });
