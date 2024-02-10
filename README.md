@@ -24,6 +24,8 @@ Type `npm i` into the console once the project is cloned to your local repositor
 
 After typing `node index.js` into the console, answer the questions that follow.
 
+[![Youtube Video](./screenshot.png)](https://www.youtube.com/watch?v=d5UFHg6XA58)
+
 ## Tests
 
 To test, type `npm run test` into the console and it will check for fail/pass.
