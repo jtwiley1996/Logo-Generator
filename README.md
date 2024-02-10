@@ -11,7 +11,6 @@
 - [Usage](#usage)
 - [Tests](#tests)
 - [Contact](#contact)
-- [Examples](#examples)
 
 ## Description
 
@@ -34,5 +33,3 @@ To test, type `npm run test` into the console and it will check for fail/pass.
 - [Email](mailto:jtwiley1996@gmail.com)
 - [Github](https://github.com/jtwiley1996)
 - [Linkedin](https://www.linkedin.com/in/julian-wiley-51508313b/)
-
-## Examples
